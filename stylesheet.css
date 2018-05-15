@@ -1,0 +1,77 @@
+.introduction {
+
+}
+
+.header {
+  text-align: right;
+  /* font */
+}
+
+.job {
+  text-align: right;
+  /* add different font */
+
+}
+
+.description {
+  text-align: right;
+}
+
+.line {
+  height: 3px;
+  background-color: #7d97ad;
+}
+
+.work {
+  margin-left: auto;
+  margin-right: 10px;
+}
+
+.featured {
+  color: #7d97ad;
+
+}
+
+.tulip {
+  max-width: 100px;
+  max-height: 100px;
+
+}
+
+
+.purple {
+  max-width: 175px;
+  max-height: 175px;
+  padding-right: 55px;
+  padding-left: 5px;
+}
+
+.bunny {
+  max-width: 175px;
+  max-height: 175px;
+  padding-left: 55px;
+  padding-right: 55px;
+
+}
+
+.yellow {
+  max-width: 175px;
+  max-height: 175px;
+  padding-left: 55px;
+
+
+}
+
+.figure {
+  display: inline-grid;
+  margin: auto;
+
+}
+
+.cap {
+  text-align: center;
+}
+
+@media and screen (max-width:400px)
+{ .work {
+  
